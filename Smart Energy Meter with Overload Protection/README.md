@@ -81,7 +81,7 @@ In modern industries, motors and machines can fail due to **overload or excess c
 | File | Description |
 |------|-------------|
 | [`smart_energy_meter_with_overload_protection1.ino`](smart_energy_meter_with_overload_protection1.ino) | Arduino code |
-| [`circuit.dig`](circuit.dig) | Circuit Diagram |
+| [`circuit.dig`](Circuit.png) | Circuit Diagram |
 | [`bom.csv`](bom.csv) | Bill of Materials |
 | [`Smart Energy Meter with Overload Protection.pdf`](Smart%20Energy%20Meter%20with%20Overload%20Protection.pdf) | Project Report |
 | [`smart_energy_meter_demo.gif`](smart_energy_meter_demo.gif) | Demo GIF |
