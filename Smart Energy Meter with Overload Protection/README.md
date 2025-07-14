@@ -14,7 +14,7 @@ A real-world industrial safety system built using Arduino Uno that simulates cur
 
 ## 🖼️ Circuit Diagram
 
-![Smart Energy Meter with Overload Protection ](/circuit.dig.png)
+[cricuit.dig](/Cricuit.png)
 
 ---
 
